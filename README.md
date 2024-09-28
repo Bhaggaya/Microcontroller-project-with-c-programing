@@ -1,5 +1,5 @@
 # Microcontroller-project-with-c-programing
-A Automatic water level controlling system of a water tank using the knowledge of C programming techniques of PIC16f877a
+Build An Automatic water level monitoring unit for the drain system using PIC16f877a Microcontroller and C programming.
 
 ## Microcomputers-Group_11-Lab_04
 SRI LANKA INSTITUE OF INFORMATION TECHNOLOGY  
